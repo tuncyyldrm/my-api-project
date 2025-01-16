@@ -1,14 +1,11 @@
 {
   "name": "my-api-project",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "api/getCariData.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "vercel dev"
   },
   "dependencies": {
-    "mssql": "^9.0.1"
-  },
-  "engines": {
-    "node": "18.x"
+    "mssql": "^9.0.0" // En güncel sürümü yükle
   }
 }
