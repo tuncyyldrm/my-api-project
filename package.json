@@ -6,6 +6,7 @@
     "start": "vercel dev"
   },
   "dependencies": {
-    "mssql": "^9.0.0" // En güncel sürümü yükle
+    "mssql": "^9.0.0"
   }
 }
+
